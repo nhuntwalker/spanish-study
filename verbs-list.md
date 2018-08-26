@@ -7,4 +7,4 @@
 - hacer - to make/to do
 - beber - to drink
 - cocinar - to cook
-- reír - to laugh
+- reírse - to laugh
